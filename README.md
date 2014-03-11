@@ -2,8 +2,7 @@ boilerplate
 ===========
 
 # My Grunt boilerplate
-For more info about go to: http://gruntjs.com/
-If found 24ways.org/2013/grunt-is-not-weird-and-hard/ extremely valuable. 
+For more info about go to: http://gruntjs.com/. I found 24ways.org/2013/grunt-is-not-weird-and-hard/ extremely valuable. 
 
 I use one src folder where I keep all my source files. Files are being compiled, concatenated into a img, CSS and JS folder. No default CSS and JS (yet). 
 
